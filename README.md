@@ -2,4 +2,4 @@
 Personnal portfolio mapping my skills, about and case projects
 
 coming
-# to start soon
+# to start soon..........
